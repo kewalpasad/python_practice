@@ -28,3 +28,32 @@ There were 27 lines in the file with From as the first word
 
 
 output:
+what is the name of th file:kewal.txt
+stephen.marquard@uct.ac.za
+louis@media.berkeley.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+zqian@umich.edu
+rjlowe@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+gsilver@umich.edu
+gsilver@umich.edu
+zqian@umich.edu
+gsilver@umich.edu
+wagnermr@iupui.edu
+zqian@umich.edu
+antranig@caret.cam.ac.uk
+gopal.ramasammycook@gmail.com
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+david.horwitz@uct.ac.za
+stephen.marquard@uct.ac.za
+louis@media.berkeley.edu
+louis@media.berkeley.edu
+ray@media.berkeley.edu
+cwen@iupui.edu
+cwen@iupui.edu
+cwen@iupui.edu
+There are 27 lines in the file with From as the first word
